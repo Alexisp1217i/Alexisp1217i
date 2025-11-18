@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hola, soy Jesus Alexis Jimenez Aldaba 👋
+#### Desarrollador Java & Web Junior de Chihuahua, Mx.
 
-<!--
-**Alexisp1217i/Alexisp1217i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado por la tecnología y la programación. Me especializo en crear lógica robusta con **Java** y presentarla con interfaces web limpias usando **HTML/CSS**.
 
-Here are some ideas to get you started:
+**🛠 Tech Stack**
+* **Backend/Lógica:** Java (POO, Estructuras de datos).
+* **Frontend:** HTML5, CSS3, JavaScript básico.
+* **Herramientas:** VS Code, NetBeans, Git.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🚀 Proyectos Destacados**
+* **[Taquería El Rayo](link-a-tu-pagina-de-tacos):** Landing page responsiva para negocio local con integración de WhatsApp.
+* **[Mi Portafolio](link-a-tu-repo):** Sitio personal donde muestro mis habilidades y servicios.
+
+---
+📫 **Contáctame:** aldabaalexis85@gmail.com| [Tu LinkedIn]
