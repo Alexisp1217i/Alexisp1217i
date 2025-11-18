@@ -13,4 +13,4 @@ Soy un apasionado por la tecnología y la programación. Me especializo en crear
 * **[Mi Portafolio](link-a-tu-repo):** Sitio personal donde muestro mis habilidades y servicios.
 
 ---
-📫 **Contáctame:** aldabaalexis85@gmail.com| [Tu LinkedIn]
+📫 **Contáctame:** aldabaalexis85@gmail.com| linkedin.com/in/jesus-alexis-jimenez-aldaba-73383a333
