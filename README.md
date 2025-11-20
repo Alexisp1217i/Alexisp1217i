@@ -10,6 +10,7 @@ Soy un apasionado por la tecnología y la programación. Me especializo en crear
 
 **🚀 Proyectos Destacados**
 * **[Taquería El Rayo](https://alexisp1217i.github.io/taqueria/):** Landing page responsiva para negocio local con integración de WhatsApp.
+* **[Barbería Elite](https://alexisp1217i.github.io/barberia/): Sitio web estilo "Dark Mode" para barbería con catálogo de cortes y citas por WhatsApp.
 * **[Mi Portafolio](https://alexisp1217i.github.io/):** Sitio personal donde muestro mis habilidades y servicios.
 
 ---
