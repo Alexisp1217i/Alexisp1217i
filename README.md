@@ -9,7 +9,7 @@ Soy un apasionado por la tecnología y la programación. Me especializo en crear
 * **Herramientas:** VS Code, NetBeans, Git.
 
 **🚀 Proyectos Destacados**
-* **[Taquería El Rayo](link-a-tu-pagina-de-tacos):** Landing page responsiva para negocio local con integración de WhatsApp.
+* **[Taquería El Rayo](https://alexisp1217i.github.io/taqueria/):** Landing page responsiva para negocio local con integración de WhatsApp.
 * **[Mi Portafolio](link-a-tu-repo):** Sitio personal donde muestro mis habilidades y servicios.
 
 ---
