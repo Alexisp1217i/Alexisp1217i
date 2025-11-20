@@ -10,7 +10,7 @@ Soy un apasionado por la tecnología y la programación. Me especializo en crear
 
 **🚀 Proyectos Destacados**
 * **[Taquería El Rayo](https://alexisp1217i.github.io/taqueria/):** Landing page responsiva para negocio local con integración de WhatsApp.
-* **[Mi Portafolio](link-a-tu-repo):** Sitio personal donde muestro mis habilidades y servicios.
+* ** [Mi Portafolio](https://alexisp1217i.github.io/):** Sitio personal donde muestro mis habilidades y servicios.
 
 ---
 📫 **Contáctame:** aldabaalexis85@gmail.com| www.linkedin.com/in/jesus-alexis-jimenez
