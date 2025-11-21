@@ -9,9 +9,9 @@ Soy un apasionado por la tecnología y la programación. Me especializo en crear
 * **Herramientas:** VS Code, NetBeans, Git.
 
 **🚀 Proyectos Destacados**
-* [Taquería El Rayo](https://alexisp1217i.github.io/taqueria/):** Landing page responsiva para negocio local con integración de WhatsApp.
+* [Taquería El Rayo](https://alexisp1217i.github.io/taqueria/): Landing page responsiva para negocio local con integración de WhatsApp.
 * [Barbería Elite](https://alexisp1217i.github.io/Barberia/): Sitio web estilo "Dark Mode" para barbería con catálogo de cortes y citas por WhatsApp.
-* [Mi Portafolio](https://alexisp1217i.github.io/):** Sitio personal donde muestro mis habilidades y servicios.
+* [Mi Portafolio](https://alexisp1217i.github.io/):Sitio personal donde muestro mis habilidades y servicios.
 
 ---
 📫 **Contáctame:** aldabaalexis85@gmail.com| www.linkedin.com/in/jesus-alexis-jimenez
