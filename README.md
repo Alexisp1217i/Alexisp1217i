@@ -15,7 +15,7 @@ Me especializo en crear **páginas web de alto rendimiento y seguras** para nego
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ### 📌 Proyectos Destacados
-*(Aquí irán apareciendo tus proyectos pineados)*
+**
 
 ---
 📫 **¿Quieres cotizar un proyecto?** Contáctame a través de mi [Portafolio Web](#) o envíame un mensaje directo.
