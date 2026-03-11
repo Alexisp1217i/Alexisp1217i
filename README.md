@@ -1,20 +1,21 @@
-### Hola, soy Jesus Alexis Jimenez Aldaba 👋
-#### Desarrollador Java & Web Junior de Chihuahua, Mx.
+# 👋 Hola, soy Desarrollador Web Freelance
 
-Soy un apasionado por la tecnología y la programación. Me especializo en crear lógica robusta con **Java** y presentarla con interfaces web limpias usando **HTML/CSS**.
+Me especializo en crear **páginas web de alto rendimiento y seguras** para negocios locales y emprendedores. Mi enfoque no solo es que un sitio se vea bien, sino que cargue rápido, convierta visitantes en clientes y esté protegido.
 
-**🛠 Tech Stack**
-* **Backend/Lógica:** Java (POO, Estructuras de datos).
-* **Frontend:** HTML5, CSS3, JavaScript básico.
-* **Herramientas:** VS Code, NetBeans, Git.
+### 💼 Qué puedo hacer por tu negocio:
+- **Landing Pages & Portafolios:** Diseños modernos (Glassmorphism, Dark Mode) altamente interactivos.
+- **Rendimiento Extremo:** Sitios optimizados que no hacen esperar a tus clientes.
+- **Arquitectura Segura:** Prácticas de desarrollo enfocadas en proteger la integridad del sitio web.
 
-**🚀 Proyectos Destacados**
-* [Autos Premium CUU](https://alexisp1217i.github.io/autos/): Catálogo digital de inventario automotriz con diseño deportivo y botones de contacto.
-* [Taquería El Rayo](https://alexisp1217i.github.io/taqueria/): Landing page responsiva para negocio local con integración de WhatsApp.
-* [Barbería Elite](https://alexisp1217i.github.io/Barberia/): Sitio web estilo "Dark Mode" para barbería con catálogo de cortes y citas por WhatsApp.
-* [Mi Portafolio](https://alexisp1217i.github.io/):Sitio personal donde muestro mis habilidades y servicios.
+### 🛠️ Mi Stack Tecnológico
+**Frontend & Diseño Web:**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Backend & Seguridad:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+### 📌 Proyectos Destacados
+*(Aquí irán apareciendo tus proyectos pineados)*
 
 ---
-📫 **Contáctame:** aldabaalexis85@gmail.com| www.linkedin.com/in/jesus-alexis-jimenez
-
-
+📫 **¿Quieres cotizar un proyecto?** Contáctame a través de mi [Portafolio Web](#) o envíame un mensaje directo.
