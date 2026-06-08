@@ -37,7 +37,7 @@ Estudiante de primer año en Ingeniería en Ciberseguridad con experiencia en de
 
 ## 🎯 Proyectos Destacados
 
-### 🌐 [Nancy Nails Studio](https://github.com/Alexisp1217i)
+### 🌐 [Nancy Nails Studio](https://alexisp1217i.github.io/nancy-nails-studio/)
 **Portfolio web profesional** | HTML5 • CSS3 • JavaScript
 - Diseño moderno y responsivo (Glassmorphism, Dark Mode)
 - SEO optimizado y accesibilidad
